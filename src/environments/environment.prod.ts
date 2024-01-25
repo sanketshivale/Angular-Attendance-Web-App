@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  serverBaseUrl: process.env["API_URI"],
+  serverBaseUrl: 'angular-app-server-production.up.railway.app',
 };
