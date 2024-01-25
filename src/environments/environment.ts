@@ -5,7 +5,7 @@
 
 export const environment = {
   production: false,
-  serverBaseUrl: 'http://localhost:4000',
+  serverBaseUrl: process.env["API_URI"],
 }
 /*
  * For easier debugging in development mode, you can import the following file
