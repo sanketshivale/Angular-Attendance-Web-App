@@ -5,7 +5,7 @@
 
 export const environment = {
   production: false,
-  serverBaseUrl: 'angular-app-server-production.up.railway.app',
+  serverBaseUrl: 'https://angular-app-server-production.up.railway.app',
 }
 /*
  * For easier debugging in development mode, you can import the following file
